@@ -5,7 +5,7 @@ class Scene {
   }
 
   create(){
-    this.do()
+    this.do();
   }
 
   show(){
